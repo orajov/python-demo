@@ -7,15 +7,9 @@ This path mirrors the topics from the reference syllabus and keeps every lesson 
 - **exercises.py**: short tasks to finish or extend.
 
 ## How to use it
-1. Clone this repository, enter it, and create a personal branch to keep your own commits:
-   ```sh
-   git clone <repo-url>
-   cd python-demo
-   git checkout -b <your-name>
-   ```
-2. Start with `00_setup_and_install` to install Python and set the `py` alias so you can run `py examples.py` anywhere.
-3. Open each README, skim the checklist, then run `py examples.py`.
-4. Complete the prompts in `exercises.py` and verify by running `py exercises.py`.
+1. Start with `00_setup_and_install` to install Python and set the `py` alias so you can run `py examples.py` anywhere.
+2. Open each README, skim the checklist, then run `py examples.py`.
+3. Complete the prompts in `exercises.py` and verify by running `py exercises.py`.
 
 ## Lessons
 0. `00_setup_and_install` – install Python, set up the `py` alias, and verify your shell.
