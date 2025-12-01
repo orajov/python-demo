@@ -1,8 +1,14 @@
 # 00 – Setup and install
 
-Goal: install Python, create a simple `py` alias, and verify you can run the examples and exercises.
+Goal: clone the project, create your personal branch, install Python, and add a simple `py` alias so you can run the examples and exercises.
 
 ## Checklist
+- Clone the repo and create a branch named after you:
+  ```sh
+  git clone <repo-url>
+  cd python-demo
+  git checkout -b <your-name>
+  ```
 - Install Python 3.11+ from python.org or your package manager.
 - Add an alias to your shell profile (e.g., `~/.bashrc` or `~/.zshrc`):
   ```sh
